@@ -2,114 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad31d49-20ea-481f-aa98-f0ed19cc26b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServerDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServerDemo/src/main/java/com/algo/EurekaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServerDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServerDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServerDemo/target/classes/com/algo/EurekaServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/FeignServiceDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/java/com/algo/FeignClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/java/com/algo/controller/FeignHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/java/com/algo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/java/com/algo/feign/FeignClientProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/java/com/algo/feign/impl/FeignError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/com/algo/FeignClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/com/algo/controller/FeignHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/com/algo/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/com/algo/feign/FeignClientProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeignServiceDemo/target/classes/com/algo/feign/impl/FeignError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/java/com/algo/HystrixApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/java/com/algo/controller/HystrixHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/java/com/algo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/java/com/algo/feign/FeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/java/com/algo/feign/FeignError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/com/algo/HystrixApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/com/algo/controller/HystrixHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/com/algo/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/com/algo/feign/FeignClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HystrixDemo/target/classes/com/algo/feign/FeignError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/RestServiceDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/src/main/java/com/algo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestServiceDemo/target/classes/com/algo/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/RibbonDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/src/main/java/com/algo/Ribbon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/src/main/java/com/algo/controller/RibbonHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/src/main/java/com/algo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/target/classes/com/algo/Ribbon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/target/classes/com/algo/controller/RibbonHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RibbonDemo/target/classes/com/algo/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/ServiceConsumerDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/src/main/java/com/algo/ServiceConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/src/main/java/com/algo/ServiceConsumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/src/main/java/com/algo/controller/RestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/src/main/java/com/algo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/target/classes/com/algo/ServiceConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/target/classes/com/algo/ServiceConsumer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/target/classes/com/algo/controller/RestHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceConsumerDemo/target/classes/com/algo/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/ServiceProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/ServiceProvider2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/controller/StudentHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/java/com/algo/repository/impl/StudentRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/ServiceProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/ServiceProvider2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/controller/StudentHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/repository/StudentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceProviderDemo/target/classes/com/algo/repository/impl/StudentRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/SpringCloudConfigClientDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/src/main/java/com/algo/NativeConfigClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/src/main/java/com/algo/controller/NativeConfigClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/target/classes/META-INF/SpringCloudConfigClientDemo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/target/classes/com/algo/NativeConfigClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigClientDemo/target/classes/com/algo/controller/NativeConfigClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/SpringCloudConfigDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/src/main/java/com/algo/NativeConfigServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/src/main/resources/shared/configclient-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/target/classes/META-INF/SpringCloudConfigDemo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/target/classes/com/algo/NativeConfigServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudConfigDemo/target/classes/shared/configclient-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/ZuulDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/src/main/java/com/algo/GateWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZuulDemo/target/classes/com/algo/GateWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springCloudDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinClientDemo/ZipkinClientDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinClientDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinClientDemo/src/main/java/com/algo/ZipkinClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinClientDemo/src/main/java/com/algo/controller/ZipkinClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinClientDemo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServerDemo/ZipkinServerDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServerDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServerDemo/src/main/java/com/algo/ZipKinServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServerDemo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="39" />
+    <option name="myElementSize" value="44" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,6 +36,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\p89\spring_mvc_mybaties_etc\springBoot\springCloudDemo\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -147,7 +60,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1nV5SPcaiibks9HZ52tY2weLEzB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -160,6 +75,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -188,7 +104,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.NativeConfigClient">
+  <component name="RunManager" selected="Spring Boot.ZipkinClient">
     <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="HystrixDemo" />
       <extension name="coverage">
@@ -228,31 +144,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceProvider2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="ServiceProviderDemo" />
+    <configuration name="ZipKinServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ZipkinServerDemo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.algo.ServiceProvider2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.algo.ZipKinServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ZipkinClientDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.algo.ZipkinClient" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.ServiceProvider2" />
       <item itemvalue="Spring Boot.HystrixApplication" />
       <item itemvalue="Spring Boot.NativeConfigServer" />
       <item itemvalue="Spring Boot.NativeConfigClient" />
+      <item itemvalue="Spring Boot.ZipKinServer" />
+      <item itemvalue="Spring Boot.ZipkinClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ZipkinClient" />
+        <item itemvalue="Spring Boot.ZipKinServer" />
         <item itemvalue="Spring Boot.NativeConfigClient" />
         <item itemvalue="Spring Boot.NativeConfigServer" />
         <item itemvalue="Spring Boot.HystrixApplication" />
-        <item itemvalue="Spring Boot.ServiceProvider2" />
       </list>
     </recent_temporary>
   </component>
@@ -300,12 +231,60 @@
       <option name="presentableId" value="Default" />
       <updated>1611462416414</updated>
       <workItem from="1611462418145" duration="6074000" />
-      <workItem from="1611468580629" duration="22801000" />
+      <workItem from="1611468580629" duration="28243000" />
     </task>
+    <task id="LOCAL-00001" summary="spring-cloud提交代码">
+      <created>1611497540321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611497540321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-cloud提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-cloud提交代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="76" key="#Project_Structure" timestamp="1611472855238">
@@ -328,58 +307,66 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611473731901" />
+    <state x="138" y="8" key="CommitChangelistDialog2" timestamp="1611497538229">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="138" y="8" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611497538229" />
     <state x="379" y="204" key="FileChooserDialogImpl" timestamp="1611497435622">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="379" y="204" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611497435622" />
-    <state width="1155" height="318" key="GridCell.Tab.0.bottom" timestamp="1611488411786">
+    <state x="549" y="289" width="610" height="268" key="Github.ShareDialog" timestamp="1611497742086">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411786" />
-    <state width="1155" height="318" key="GridCell.Tab.0.center" timestamp="1611488411786">
+    <state x="549" y="289" width="610" height="268" key="Github.ShareDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611497742086" />
+    <state width="1155" height="289" key="GridCell.Tab.0.bottom" timestamp="1611502677138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411786" />
-    <state width="1155" height="318" key="GridCell.Tab.0.left" timestamp="1611488411785">
+    <state width="1155" height="289" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677138" />
+    <state width="1155" height="289" key="GridCell.Tab.0.center" timestamp="1611502677138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411785" />
-    <state width="1155" height="318" key="GridCell.Tab.0.right" timestamp="1611488411786">
+    <state width="1155" height="289" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677138" />
+    <state width="1155" height="289" key="GridCell.Tab.0.left" timestamp="1611502677138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411786" />
-    <state width="1155" height="318" key="GridCell.Tab.1.bottom" timestamp="1611488411787">
+    <state width="1155" height="289" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677138" />
+    <state width="1155" height="289" key="GridCell.Tab.0.right" timestamp="1611502677138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411787" />
-    <state width="1155" height="318" key="GridCell.Tab.1.center" timestamp="1611488411786">
+    <state width="1155" height="289" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677138" />
+    <state width="1155" height="289" key="GridCell.Tab.1.bottom" timestamp="1611502677005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411786" />
-    <state width="1155" height="318" key="GridCell.Tab.1.left" timestamp="1611488411786">
+    <state width="1155" height="289" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
+    <state width="1155" height="289" key="GridCell.Tab.1.center" timestamp="1611502677005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411786" />
-    <state width="1155" height="318" key="GridCell.Tab.1.right" timestamp="1611488411787">
+    <state width="1155" height="289" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
+    <state width="1155" height="289" key="GridCell.Tab.1.left" timestamp="1611502677004">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411787" />
-    <state width="1155" height="318" key="GridCell.Tab.2.bottom" timestamp="1611488411788">
+    <state width="1155" height="289" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677004" />
+    <state width="1155" height="289" key="GridCell.Tab.1.right" timestamp="1611502677005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.2.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411788" />
-    <state width="1155" height="318" key="GridCell.Tab.2.center" timestamp="1611488411788">
+    <state width="1155" height="289" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
+    <state width="1155" height="289" key="GridCell.Tab.2.bottom" timestamp="1611502677006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.2.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411788" />
-    <state width="1155" height="318" key="GridCell.Tab.2.left" timestamp="1611488411787">
+    <state width="1155" height="289" key="GridCell.Tab.2.bottom/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677006" />
+    <state width="1155" height="289" key="GridCell.Tab.2.center" timestamp="1611502677005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.2.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411787" />
-    <state width="1155" height="318" key="GridCell.Tab.2.right" timestamp="1611488411788">
+    <state width="1155" height="289" key="GridCell.Tab.2.center/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
+    <state width="1155" height="289" key="GridCell.Tab.2.left" timestamp="1611502677005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1155" height="318" key="GridCell.Tab.2.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611488411788" />
+    <state width="1155" height="289" key="GridCell.Tab.2.left/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
+    <state width="1155" height="289" key="GridCell.Tab.2.right" timestamp="1611502677005">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1155" height="289" key="GridCell.Tab.2.right/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611502677005" />
     <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1611464255785">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -388,18 +375,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="224" y="67" key="SettingsEditor/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611497412103" />
-    <state x="347" y="139" key="new project wizard" timestamp="1611484428732">
+    <state x="347" y="139" key="new project wizard" timestamp="1611499125179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="347" y="139" key="new project wizard/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611484428732" />
+    <state x="347" y="139" key="new project wizard/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611499125179" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1611471149494">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611471149494" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611484848079">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611499320649">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611484848079" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1611499320649" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/springCloudDemo$FeignClientApplication.ic" NAME="FeignClientApplication Coverage Results" MODIFIED="1611473786005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

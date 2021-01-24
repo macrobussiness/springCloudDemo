@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ServiceProviderDemo" />
         <module name="SpringCloudConfigDemo" />
+        <module name="ZipkinServerDemo" />
         <module name="HystrixDemo" />
+        <module name="ZipkinClientDemo" />
         <module name="FeignServiceDemo" />
         <module name="ServiceConsumerDemo" />
         <module name="EurekaServerDemo" />
@@ -30,6 +32,8 @@
       <module name="ServiceProviderDemo" options="-parameters" />
       <module name="SpringCloudConfigClientDemo" options="-parameters" />
       <module name="SpringCloudConfigDemo" options="-parameters" />
+      <module name="ZipkinClientDemo" options="-parameters" />
+      <module name="ZipkinServerDemo" options="-parameters" />
       <module name="ZuulDemo" options="-parameters" />
       <module name="springCloudDemo" options="-parameters" />
     </option>

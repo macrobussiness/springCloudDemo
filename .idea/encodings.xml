@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/ServiceProviderDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloudConfigClientDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloudConfigDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ZipkinClientDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ZipkinServerDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZuulDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />

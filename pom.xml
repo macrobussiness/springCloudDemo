@@ -19,6 +19,8 @@
         <module>HystrixDemo</module>
         <module>SpringCloudConfigDemo</module>
         <module>SpringCloudConfigClientDemo</module>
+        <module>ZipkinServerDemo</module>
+        <module>ZipkinClientDemo</module>
     </modules>
 
     <parent>
